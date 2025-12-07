@@ -1,33 +1,24 @@
-
 ---
 
-# ✅ 프로젝트 특징 요약
+#  👾 AIlian 
 
-| 항목 | 내용 |
-|------|------|
-| 🎯 주제 | AI vs 사람 글 판별 |
-| ⚙️ 기술 | NLP, Transformers, 문체 분석 |
-| 🧩 완성도 | 오픈소스 구조 + CLI 도구 |
-| 💬 발표 포인트 | “AI가 AI를 감지한다!” |
-| ⏱️ 제작 난이도 | 중간 (2~4일 완성 가능) |
-
----
-# 🧠 Will-be-Copykiller  
+AIlian은 텍스트가 AI가 작성한 글인지, 사람이 작성한 글인지를 판별하는 웹 애플리케이션입니다.
+Hugging Face의 openai-community/roberta-base-openai-detector 모델을 사용하여 간단하고 빠르게 AI 작성 확률을 제공합니다.
+※ AI가 쓴 글의 가능성을 직접 판단하는 것이 아닌 모델을 사용하여 판단하는 웹 애플리케이션을 만든 것입니다.
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Ready-red)
 ![HuggingFace](https://img.shields.io/badge/Model-roberta--base--openai--detector-green)
 
-AI가 작성한 글을 탐지하는 **오픈소스 텍스트 분석 도구**입니다.  
-문체 분석 + Hugging Face AI 모델을 결합하여  
-입력한 글이 AI가 작성한 것인지 사람의 글인지 예측합니다.
+---
+
+### 사용방법
+링크 : https://will-be-copykiller-lc4jmymnod2qfce8r2o9xr.streamlit.app/
+1. 링크에 접속한다.
+2. 텍스트란에 테스트할 문장을 입력한다
+3. 분석하기 버튼을 누른다.
+4. ‼️결과를 확인한다‼️
 
 ---
 
-## 🚀 빠른 시작 (Quick Start)
-
-### 1️⃣ 설치
-```bash
-git clone https://github.com/ekwjd76/will-be-copykiller.git
-cd will-be-copykiller
-pip install -r requirements.txt
+# 프로젝트 상세설명
