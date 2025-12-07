@@ -11,16 +11,16 @@ Hugging Face의 openai-community/roberta-base-openai-detector 모델을 사용�
 # 사용된 오픈소스
 
 Python
-https://www.python.org/
+https://www.python.org/  
 
 Streamlit
-https://streamlit.io/
+https://streamlit.io/  
 
 MIT License
-https://opensource.org/licenses/MIT
+https://opensource.org/licenses/MIT  
 
 HuggingFace (모델)
-https://huggingface.co/openai-community/roberta-base-openai-detector
+https://huggingface.co/openai-community/roberta-base-openai-detector  
 
 ---
 
